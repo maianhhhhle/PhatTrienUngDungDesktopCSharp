@@ -1,0 +1,13 @@
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.fBai1.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.fMainForm.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\bin\Debug\BaiTap3.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\bin\Debug\BaiTap3.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\bin\Debug\BaiTap3.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.fBai2.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\bài tập\2312569_LeThiMaiAnh_BaiTapWinForm3\BaiTap3\obj\Debug\BaiTap3.fBai3.resources

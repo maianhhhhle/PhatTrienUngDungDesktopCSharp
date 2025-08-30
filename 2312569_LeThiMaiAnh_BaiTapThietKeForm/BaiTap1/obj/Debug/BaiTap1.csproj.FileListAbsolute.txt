@@ -1,0 +1,14 @@
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\bin\Debug\BaiTap1.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\bin\Debug\BaiTap1.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\bin\Debug\BaiTap1.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.Properties.Resources.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.csproj.GenerateResource.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.fBai1.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.fFormChinh.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.fBai2.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.fBai3.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_BaiTapThietKeForm\BaiTap1\obj\Debug\BaiTap1.fBai4.resources

@@ -1,0 +1,10 @@
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\bin\Debug\Bai2.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\bin\Debug\Bai2.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\bin\Debug\Bai2.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.fMainForm.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh\Bai2\obj\Debug\Bai2.pdb
